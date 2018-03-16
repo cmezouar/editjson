@@ -1,0 +1,27 @@
+{
+  "name": "editjson",
+  "version": "1.0.0",
+  "description": "a node module to edit a json file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmezouar/editjson.git"
+  },
+  "keywords": [
+    "node",
+    "edit",
+    "json"
+  ],
+  "author": "Chloé Mezouar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmezouar/editjson/issues"
+  },
+  "homepage": "https://github.com/cmezouar/editjson#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
